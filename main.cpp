@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello world. My name is Nguyen Anh Hao." << endl;
+	cout << "Hello world. Today is 9/1/2024" << endl;
 	return 0;
 }
